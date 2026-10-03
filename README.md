@@ -49,7 +49,7 @@ It is like asking a librarian for every book whose catalog number starts with `5
 - SHA-1 is used only because the breach API requires it. It is not a safe way to *store* passwords.
 - Needs an internet connection for the breach check.
 
-## What I learned
+##
 
 <!-- TODO: write 3-4 lines in your own words. What is hashing? Why only 5 characters? What surprised you? -->
 
